@@ -137,5 +137,8 @@ An example script to configure everything might look like:
             time.sleep(60)
 
 
+Sample Application
+------------------
 
+https://github.com/youngsoul/GrovePiBlynkSampleApp
 
