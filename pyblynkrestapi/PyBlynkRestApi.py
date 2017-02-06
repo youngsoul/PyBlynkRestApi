@@ -72,7 +72,7 @@ class PyBlynkRestApi(object):
 
             url = "{}/get/{}".format(self._get_blynk_server_url(), pin_name)
 
-            response_body = requests.get(url,{})
+            response_body = requests.get(url,params={})
 
             #print(response_body.json())
 
