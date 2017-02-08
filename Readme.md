@@ -3,6 +3,14 @@ PyBlynkRestApi
 
 This package is a simple wrapper around the Blynk Rest API.  
 
+To install
+----------
+
+pip install pyblynkrestapi
+
+Overview
+--------
+
 The Blynk Rest API is not the most efficient way to interact with the 
 Blynk Cloud and mobile application.  If you can find a native client
 that uses TCP sockets - that would be the most efficient.  
